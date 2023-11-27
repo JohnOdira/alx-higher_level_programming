@@ -2,6 +2,4 @@
 
 import sys
 
-sys.stderr.write("Programming is like building a multilingual puzzle\n")
-
-exit(1)
+sys.stderr.write("\"Programming is like building a multilingual puzzle")
